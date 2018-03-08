@@ -7,7 +7,7 @@ Programming Languages class: we try different languages (Fortran, Ada, VBasic, e
 - ADA
 - Lisp (possibly: unconfirmed)
 - Made-up Language
--Final Project (probably Haskell)
+- Final Project (probably Haskell)
 
 ## I am documenting this
 - Over time, I hope to improve how I problem-solve through exposure to different programming languages.
