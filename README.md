@@ -4,6 +4,7 @@ Programming Languages class: we try different languages (Fortran, Ada, VBasic, e
 ## This repo is a documentation of languages I have used in Programming Languages class for Spring '18, including:
 
 - FORTRAN (3/14/18)
+- COBOL (3/21/18)
 - ADA
 - Lisp (possibly: unconfirmed)
 - Made-up Language
