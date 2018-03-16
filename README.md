@@ -13,3 +13,12 @@ Programming Languages class: we try different languages (Fortran, Ada, VBasic, e
 ## I am documenting this
 - Over time, I hope to improve how I problem-solve through exposure to different programming languages.
 - Perhaps in the future these notes and this experience will inspire me to make a programming language of my own
+
+## Notes
+
+``` 
+Fortran comments !
+```
+``` 
+Cobol comments *>
+```
