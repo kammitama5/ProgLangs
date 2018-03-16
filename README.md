@@ -26,4 +26,5 @@ X - indicates the occurrence of char from corresponding set
 A - indicates the occurrence of alphabet character 
 V - indicates position of decimal point in numerica value
 S - indicates presence of sign
+zzzz9.99 will suppress padded zeros unless there is a value
 ```
