@@ -5,8 +5,8 @@ Programming Languages class: we try different languages (Fortran, Ada, VBasic, e
 
 - FORTRAN (3/14/18)
 - COBOL (3/21/18)
-- ADA
-- Lisp (possibly: unconfirmed)
+- ADA (3/28/18)
+- RUBY
 - Made-up Language
 - Final Project (probably Haskell)
 
