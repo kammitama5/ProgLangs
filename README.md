@@ -5,9 +5,10 @@ Programming Languages class: we try different languages (Fortran, Ada, VBasic, e
 
 - FORTRAN (3/14/18)
 - COBOL (3/21/18)
-- ADA (3/28/18)
+- ADA (4/4/18)
 - RUBY
-- Made-up Language
+- Made-up Language called MinusMinus (.mm files)
+- Interpreter (group project)
 - Final Project (probably Haskell)
 
 ## I am documenting this
